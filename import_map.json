@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "three": "./modules/three.module.js",
+        "jsm/": "./jsm/"
+    }
+}
